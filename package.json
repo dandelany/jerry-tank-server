@@ -1,0 +1,19 @@
+{
+  "name": "jerry-tank-server",
+  "version": "1.0.0",
+  "description": "server for controlling wifi raspberry pi robot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dandelany/jerry-tank-server.git"
+  },
+  "author": "Dan Delany <dan.delany@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dandelany/jerry-tank-server/issues"
+  },
+  "homepage": "https://github.com/dandelany/jerry-tank-server#readme"
+}
